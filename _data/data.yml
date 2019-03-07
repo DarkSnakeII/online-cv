@@ -1,33 +1,25 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: False 
+    education: False 
 
-    # Profile information
     name: Dionisis Pylarinos
     tagline: Department of Informatics Undergraduate Student
-    avatar: 21363078_1461677473900111_2024132859_n.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
+    avatar: 21363078_1461677473900111_2024132859_n.jpg  
+   
     email: dionisis_7g7@hotmail.gr
     phone: 6948719793
-    website: darksnakeii.github.io/online-cv/ #do not add http://
+    website: darksnakeii.github.io/online-cv/
     facebok: d9pylarinos
     github: DarkSnakeII
     instgram: d9_pylarinos
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
+    
     languages:
       - idiom: Greek
         level: Native
 
       - idiom: English
-        level: good level
+        level: good level 
+        
     interests:
       - item: Football
         link:
@@ -72,5 +64,5 @@ skills:
 
       
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+    
