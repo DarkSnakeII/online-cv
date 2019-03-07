@@ -50,8 +50,6 @@ career-profile:
       on a basic level and i am planning on increasing the level in the near future with hard work and loyalty. I also plan to use my skill and expend my knowledge
       on the deparment of security.
 
-      Second paragraph if required.
-
 education:
     - degree: BSc in Computer Science
       university: Ionian University 
@@ -66,11 +64,6 @@ education:
           - C snd C++ 
           - HTML 5.0
           - SQL
-
-
-
-
-   
 
 projects:
     title: Projects
